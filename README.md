@@ -5,9 +5,9 @@ _Assignment 1 - 4 was done in DevC++, hence the .exe and .layout miscellanous fi
 
 ##### 1) [Assignment 1](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/tree/master/Assignment_1)
 [Question 1](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/tree/master/Assignment_1/Question_1)
-- Asd
+Asd
 [Question 2](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/tree/master/Assignment_1/Question_2)
-- Jk
+Jk
 ##### 2) [Assignment 2](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/tree/master/Assignment_2)
 ##### 3) [Assignment 3](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/tree/master/Assignment_3)
 ##### 4) [Assignment 4](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/tree/master/Assignment_4)
