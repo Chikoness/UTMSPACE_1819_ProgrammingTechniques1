@@ -57,18 +57,8 @@ Algorithm
 - [Question 13](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_13.c) - Write a C program to check if a given array of integers contains a 3 or a 5.
 - [Question 14](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_14.c) - Count Fibonacci number (Recursion).
 - [Question 15](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_15.c) - Given a square matrix, calculate the absolute difference between the sums of its diagonals.
-For example, the square matrix array is shown below:
-1 2 3
-4 5 6
-9 8 9  
-The left-to-right diagonal = 1 + 5 + 9. The right to left diagonal = 3 + 5 + 9. Their absolute difference is |15 - 17| = 2. 
 Question from: https://www.hackerrank.com/challenges/diagonal-difference/
-- [Question 16](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_16.c) - Consider a staircase of size n = 4
-   X
-  XX
- XXX
-XXXX
-Observe that its base and height are both equal to n, and the image is drawn using # symbols and spaces. The last line is not preceded by any spaces. Write a program that prints a staircase of size n.
+- [Question 16](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_16.c) - Consider a staircase of size n = 4, observe that its base and height are both equal to n, and the image is drawn using # symbols and spaces. The last line is not preceded by any spaces. Write a program that prints a staircase of size n.
 Question from: https://www.hackerrank.com/challenges/staircase/
 - [Question 17](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_17.c) - HackerLand University has the following grading policy: Every student receives a grade in the inclusive range from 0 to 100; Any grade less than 40 is a failing grade. Sam is a professor at the university and likes to round each student's grade according to these rules: If the difference between the grade and the next multiple of 5 is less than 3, round grade up to the next multiple of 5; If the value of grade is less than 38, no rounding occurs as the result will still be a failing grade. For example, grade = 84 will be rounded to 85 but grade = 29 will not be rounded because the rounding would result in a number that is less than 40. Given the initial value of grade for each of Sam's n students, write code to automate the rounding process.
 Question from: https://www.hackerrank.com/challenges/grading/
