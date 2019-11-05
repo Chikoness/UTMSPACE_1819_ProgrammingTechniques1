@@ -19,6 +19,8 @@ _Assignment 1 - 4 was done in DevC++, hence the .exe and .layout miscellanous fi
 - [Question 4](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/tree/master/Assignment_2/Question_4) - Write a program that inputs three different integers from the keyboard, then prints the sum, the averages, the product, the smallest and the largest of these numbers. Use only single selection form of the if statement.
 
 ##### 3) [Assignment 3](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/tree/master/Assignment_3)
+- [Question 1](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/tree/master/Assignment_3/Question_1)
+
 ##### 4) [Assignment 4](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/tree/master/Assignment_4)
 ##### 5) [Assignment 5](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/tree/master/Assignment_5)
 ##### 5) [Extra Assignment](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/tree/master/Extra_Assignment)
