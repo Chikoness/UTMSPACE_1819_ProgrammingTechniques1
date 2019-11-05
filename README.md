@@ -33,3 +33,33 @@ _Assignment 1 - 4 was done in DevC++, hence the .exe and .layout miscellanous fi
 ##### 5) [Extra Assignment](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/tree/master/Extra_Assignment) - _The extra assignments are done to add into our final accumulative carry marks as the final exam questions were in C++ and not C._
 - [Question 1](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_1.c) - Take an array length and its' variable from user, display the array in descending order.
 - [Question 2](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_2.c) - Write a C program to find the sum of first 10 natural numbers.
+- [Question 3](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_3.c) - Write a program in C to display the cube of the number up to given an integer.
+- [Question 4](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_4.c) - Write a program in C and count the number of odd and even array variables. 
+- [Question 5](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_5.c) -
+Algorithm
+1. Start
+2. Declare variables for counter and to store the formula of triangular number - i and triangularNumber
+3. Print "Triangular Number: "
+4. Start for loop with counter i = 5
+5. If i <= 50, go to next step. Else, go to step 10
+6. Calculate triangularNumber = i * (i + 1) / 2
+7. Print the value of triangularNumber
+8. Calculate counter i + 5
+9. Go back to step 5
+10. End
+- [Question 6](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_6.c) - ITERATION - The Euclidean Algorithm for finding GCD(A,B) is as follows: If A = 0 then GCD(A,B)=B, since the GCD(0,B)=B, and we can stop. If B = 0 then GCD(A,B)=A, since the GCD(A,0)=A, and we can stop. Write A in quotient remainder form (A = B⋅Q + R). Find GCD(B,R) using the Euclidean Algorithm since GCD(A,B) = GCD(B,R).
+- [Question 7](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_7.c) - 
+- [Question 8](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_8.c) - 
+- [Question 9](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_9.c) -
+- [Question 10](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_10.c) - 
+- [Question 11](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_11.c) - 
+- [Question 12](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_12.c) - 
+- [Question 13](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_13.c) - 
+- [Question 14](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_14.c) - 
+- [Question 15](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_15.c) - 
+- [Question 16](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_16.c) - 
+- [Question 17](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_17.c) - 
+- [Question 18](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_18.c) - 
+- [Question 19](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_19.c) - 
+- [Question 20](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_20.c) - 
+- [Question 21](https://github.com/Chikoness/UTMSPACE_1819_ProgrammingTechniques1/blob/master/Extra_Assignment/Code_21.c) - 
